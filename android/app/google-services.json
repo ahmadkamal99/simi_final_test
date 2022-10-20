@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "173372722320",
+    "project_id": "simi-final",
+    "storage_bucket": "simi-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173372722320:android:8c7690ac569a6a9d75dc15",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173372722320-jis26kdglan7eab1vfhehsu6ot5urct6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7fJdyQw9B3qfG9Q2CHYgfc-Py6GNjphQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173372722320-jis26kdglan7eab1vfhehsu6ot5urct6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173372722320-jlph10kk58toadi7mlibq856061vr3ab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
